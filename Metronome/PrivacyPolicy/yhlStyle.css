@@ -1,0 +1,50 @@
+
+body{
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+p{
+    color:#868686;
+    font-size:30px;
+}
+
+h2{
+    font-size:45px;
+    height: 50px;
+}
+
+h3{
+    font-size:35px;
+    height: 45px;
+}
+
+a{
+    text-decoration:none;
+    color: #7acece;
+}
+.centerText {
+    text-align:center;
+}
+
+
+.lineone {
+    height: 50px;
+    width: 100%;
+}
+
+.lineTwo {
+    height: 15px;
+    width: 100%;
+}
+
+.emptyIndex {
+    text-indent: 2em;
+}
+
+.icon_img {
+    border-radius: 22px;
+    overflow: hidden;
+}
